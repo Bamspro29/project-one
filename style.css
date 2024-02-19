@@ -1,16 +1,5 @@
 
-body{
-    background:black;
-    color: black;
-    margin: 0 auto;
-    width: 900PX;
-    
 
-}
-.container{
-    background: #bedded;
-    margin: auto;
-}
 
 header{
     background:#bedded ;
@@ -18,15 +7,12 @@ header{
     height: auto;
     margin: auto;
 }
-.lgo{
-    display: flex;
-}
 
 nav{
     background-color: #bedded;
-    margin-right: 20px;
     float:inline-end;
-    height: 95%;
+    height: auto;
+    margin: auto;
 }
 li :hover{
     background-color: rgb(50, 155, 247);
@@ -36,31 +22,25 @@ li :hover{
     background-color: #bedded;
     width: 100%;
     margin: 0 auto;
-    padding: 20px;
 }
 .s1img{
     background-color: rgb(50, 155, 247);
     margin: 0 auto;
-    width: 50%;
-    height: 90%;
-    margin-left: 25%;
-    border-radius: 25%;
-
+    width: 150px;
+    border-radius: 20px;
    
 }
 .btn{
     color: white;
-    margin-left: 10px;
-    width: 120px;
+    width: auto;
+    height: auto;
+    margin-bottom: 5px;
 
 }
 .sect2{
     background-color:white;
     width: 100%;
     margin: 0 auto;
-}
-.tx2{
-    padding-top: 40px;
 }
 
 .sect3{
@@ -70,18 +50,11 @@ li :hover{
     padding-top: 20px;
 }
 
-.imgr{
-    display: flex;
-    padding-top: 20px;
-}
-
-.logos{
-    display: flex;
-    margin: 0 auto;
+.img1{
     width: 100px;
-    height: 80px;
-
+    margin: auto;
 }
+
 
 
 
@@ -152,5 +125,3 @@ h5{
     margin-left: 5px;
 
 }
-
-
