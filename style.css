@@ -1,0 +1,156 @@
+
+body{
+    background:black;
+    color: black;
+    margin: 0 auto;
+    width: 900PX;
+    
+
+}
+.container{
+    background: #bedded;
+    margin: auto;
+}
+
+header{
+    background:#bedded ;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+.lgo{
+    display: flex;
+}
+
+nav{
+    background-color: #bedded;
+    margin-right: 20px;
+    float:inline-end;
+    height: 95%;
+}
+li :hover{
+    background-color: rgb(50, 155, 247);
+    
+}
+.sect1{
+    background-color: #bedded;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.s1img{
+    background-color: rgb(50, 155, 247);
+    margin: 0 auto;
+    width: 50%;
+    height: 90%;
+    margin-left: 25%;
+    border-radius: 25%;
+
+   
+}
+.btn{
+    color: white;
+    margin-left: 10px;
+    width: 120px;
+
+}
+.sect2{
+    background-color:white;
+    width: 100%;
+    margin: 0 auto;
+}
+.tx2{
+    padding-top: 40px;
+}
+
+.sect3{
+    background: #bedded;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.imgr{
+    display: flex;
+    padding-top: 20px;
+}
+
+.logos{
+    display: flex;
+    margin: 0 auto;
+    width: 100px;
+    height: 80px;
+
+}
+
+
+
+.sect4{
+    
+    background:white;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.imas4{
+    display: flex;
+    margin: 0 auto;
+    padding-top: 20px;
+
+}
+.trio4{
+    background: rgb(246, 243, 243);
+    margin: 0 auto;
+    width: 50%;
+    height: 100%;
+    border-radius:10px;
+    border-bottom:20cm;
+}
+.sect5{
+    
+    background: white;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.nano{
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+.sect6{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #bedded;
+
+}
+.icone{
+    display: flex;
+    margin: 0 auto;
+
+}
+
+h2{
+    color: navy;
+    margin-left: 5px;
+}
+
+.p1{
+    color: rgb(67, 153, 251);
+    width: 60%;
+    margin: 0 auto;
+}
+
+h4{
+    color:navy ;
+    margin-left: 5px;
+
+}
+h5{
+    color:navy ;
+    margin-left: 5px;
+
+}
+
+
