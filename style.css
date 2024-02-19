@@ -7,6 +7,10 @@ header{
     height: auto;
     margin: auto;
 }
+.lgo{
+    display: flex;
+    margin: 0 auto;
+}
 
 nav{
     background-color: #bedded;
@@ -24,7 +28,7 @@ li :hover{
     margin: 0 auto;
 }
 .s1img{
-    background-color: rgb(50, 155, 247);
+    background-color: rgb(95, 171, 237);
     margin: 0 auto;
     width: 150px;
     border-radius: 20px;
@@ -51,7 +55,7 @@ li :hover{
 }
 
 .img1{
-    width: 100px;
+    width: 90px;
     margin: auto;
 }
 
@@ -63,28 +67,14 @@ li :hover{
     background:white;
     width: 100%;
     margin: 0 auto;
-    padding-top: 20px;
-}
-.imas4{
-    display: flex;
-    margin: 0 auto;
-    padding-top: 20px;
-
-}
-.trio4{
-    background: rgb(246, 243, 243);
-    margin: 0 auto;
-    width: 50%;
-    height: 100%;
-    border-radius:10px;
-    border-bottom:20cm;
+    padding-top: 2%;
 }
 .sect5{
     
     background: white;
     width: 100%;
     margin: 0 auto;
-    padding: 20px;
+    margin-top: 2%;
 }
 .nano{
     margin: 0 auto;
