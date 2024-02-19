@@ -7,10 +7,6 @@ header{
     height: auto;
     margin: auto;
 }
-.lgo{
-    display: flex;
-    margin: 0 auto;
-}
 
 nav{
     background-color: #bedded;
@@ -24,39 +20,37 @@ li :hover{
 }
 .sect1{
     background-color: #bedded;
-    width: 100%;
-    margin: 0 auto;
 }
 .s1img{
-    background-color: rgb(95, 171, 237);
+    background-color: rgb(27, 11, 250);
     margin: 0 auto;
-    width: 150px;
-    border-radius: 20px;
+    width: 30%;
+    height: 50%;
+    border-radius: 25%;
+    margin-top: 2%;
    
 }
-.btn{
-    color: white;
+.bt{
+        
+   display: flex;
     width: auto;
     height: auto;
-    margin-bottom: 5px;
+    margin: auto;
+    
 
 }
 .sect2{
     background-color:white;
-    width: 100%;
-    margin: 0 auto;
+   
 }
 
 .sect3{
     background: #bedded;
-    width: 100%;
-    margin: 0 auto;
-    padding-top: 20px;
+   
 }
 
-.img1{
-    width: 90px;
-    margin: auto;
+.im6{
+    display: flex;
 }
 
 
